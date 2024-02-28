@@ -8,3 +8,4 @@
 ### There are two primary forms of object tracking:
 #### Image-based tracking focuses on identifying, anchoring, and tracking an entire 2D image.
 #### Video-based tracking, commonly referred to as real-time object tracking, estimates or predicts the position of a target object in each consecutive frame in a video.
+![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
